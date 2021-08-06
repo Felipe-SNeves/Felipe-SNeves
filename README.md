@@ -44,4 +44,4 @@
   </ul>
 </div>
 
-![Snake animation](https://github.com/felipe-sneves/felipe-sneves/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Felipe-SNeves/Felipe-SNeves/blob/output/github-contribution-grid-snake.svg)
