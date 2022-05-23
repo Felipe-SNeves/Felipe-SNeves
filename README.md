@@ -4,15 +4,14 @@
 <div>
   <p>My name's Felipe, 22! I'm a student of Analysis and Development of Systems.</p>
   
-  <p>Well, I use my GitHub profile to store simple studies and for some subjects of the college 😄 (Yes, I need to improve and make a clean here 😅).
-  So, I don't have any useful or beautiful projects here, however, I have some ideas in which some day I'll try to develop! Until this day come, I'll use here to publish my studies or interesting stuff.</p>
+  <p>Well, I use my GitHub profile to store some projects 😄 (Yes, I'm cleaning my repos, so, probably, you won't find anything at all! 😅).</p>
 </div>
 
 ## $_top
 <div>
   <ul>
     <li> 🧑‍🔬 I'm currently trying to finish my college course;</li>
-    <li> 🔭 I'm currently learning functional algorithms (Haskell) and trying to formalize some infinitesimal calculus concepts;</li>
+    <li> 🔭 Currently, I'm learning algorithms, data structures and trying to formalize some infinitesimal calculus concepts;</li>
     <li> 📮 Contact: <a href="https://www.linkedin.com/in/felipe-neves-4180a31b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto: felpsilvaneves@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a></li>
   </ul>
 </div>
@@ -20,7 +19,7 @@
 ## #_systemctl status
 
 <div>
-  <p>Programming languages that I know 🤖 (or I knew ): <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">(I would put javascript here too, although I'm not feel secure to say that I know the language)</p>
+  <p>Programming languages that I know 🤖: <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></p>
   <p>Linux distros which I used: <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> (I didn't find the Arch symbol 🙃)
