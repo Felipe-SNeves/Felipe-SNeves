@@ -2,16 +2,16 @@
 
 ## $_whoami
 <div>
-  <p>My name's Felipe, 22! I'm a student of Analysis and Development of Systems.</p>
+  <p>My name's Felipe, 22! I'm a student of Analysis and Development of Systems and I'm an apprentice of the pragmatic programmer philosophy.</p>
   
-  <p>Well, I use my GitHub profile to store some projects 😄 (I'm cleaning my repos, so, probably, you won't find anything at all! 😅).</p>
+  <p>Well, I use my GitHub profile to store some projects 😄 (I've cleaned my repos, so, probably, you won't find anything at all! 😅).</p>
 </div>
 
 ## $_top
 <div>
   <ul>
     <li> 🧑‍🔬 I'm trying to finish my college course;</li>
-    <li> 🔭 Currently, I'm learning algorithms, data structures and trying to formalize some infinitesimal calculus concepts;</li>
+    <li> 🔭 Currently, I'm improving my math skills to dive into algorithms analysis;</li>
     <li> 📮 Contact: <a href="https://www.linkedin.com/in/felipe-neves-4180a31b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto: felpsilvaneves@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a></li>
   </ul>
 </div>
